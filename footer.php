@@ -120,7 +120,7 @@
 
         <!--Footer bottom area start-->
         <div class="footer-bootom-area-start text-center">
-            <p>&copy; 2020-15, All rights reserved, Developed <i class="fas fa-heart"></i> by <a href="#">Learning Earning Development Project</a></p>
+            <p>&copy; 2020-15, All rights reserved, Developed <i class="fas fa-heart"></i> by <a href="#">Mahmuda Jhumur</a></p>
             <a href="#" class="btm-to-top"><i class="fas fa-angle-up"></i></a>
         </div>
         <!--Footer bottom area end-->
